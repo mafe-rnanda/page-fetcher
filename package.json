@@ -1,0 +1,27 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "Page downloader - assignment w2d3 LHL",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafe-rnanda/page-fetcher.git"
+  },
+  "keywords": [
+    "https",
+    "require",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mafe-rnanda/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/mafe-rnanda/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
